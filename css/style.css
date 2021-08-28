@@ -1,0 +1,39 @@
+body {
+  background-image: url(/imagens/fundo.jpg);
+  color: #5e2309;
+}
+
+.navbar {
+  margin-top: 15px;
+}
+.nav-link {
+  color: #5e2309;
+  font-size: 20px;
+}
+.quem-somos {
+  background-color: rgb(198, 252, 205);
+  margin-top: 15px;
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.historia {
+  background-color: rgb(243, 237, 160);
+  margin-top: 15px;
+  padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.promocoes {
+  background-color: rgb(198, 252, 205);
+  margin-top: 15px;
+  padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.produtos {
+  background-color: rgb(243, 237, 160);
+  margin-top: 10px;
+  padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#rodape {
+  margin-top: 50px;
+}
